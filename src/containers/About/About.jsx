@@ -1,9 +1,11 @@
 import React from 'react';
+import Header from '../../components/Header/Header';
 
 const About = () => {
     return (
         <div>
-            Came to hear about lil' old me?
+            <br/>
+            <Header />
         </div>
     );
 };

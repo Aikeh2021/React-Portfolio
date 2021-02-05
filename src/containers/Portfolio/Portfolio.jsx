@@ -1,9 +1,11 @@
 import React from 'react';
+import Header from '../../components/Header/Header';
 
 const Portfolio = () => {
     return (
         <div>
-            "This is where the portfolio will live"
+            <br/>
+            <Header />
         </div>
     );
 };

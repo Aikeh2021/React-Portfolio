@@ -1,9 +1,11 @@
 import React from 'react';
+import Header from '../../components/Header/Header';
 
 const Projects = () => {
     return (
         <div>
-            You're here to see projects, huh?
+            <br/>
+            <Header />
         </div>
     );
 };
