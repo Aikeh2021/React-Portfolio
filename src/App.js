@@ -4,6 +4,7 @@ import About from './containers/About/About';
 import Portfolio from './containers/Portfolio/Portfolio';
 import Projects from './containers/Projects/Projects';
 import Navbar from './components/Navbar/Navbar';
+import PageNotFound from './containers/PageNotFound/PageNotFound';
 
 function App() {
   return (
@@ -11,10 +12,11 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
+          <Route path="/about" component={About} />
+          <Route path="/portfolio" component={Portfolio} />
+          <Route path="/projects" component={Projects} />
           <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/projects" component={Projects} />
+          <Route path="/" component={PageNotFound} />
         </Switch>
       </Router>
     </div>
