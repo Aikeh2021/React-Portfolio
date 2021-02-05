@@ -5,6 +5,7 @@ import Portfolio from './containers/Portfolio/Portfolio';
 import Projects from './containers/Projects/Projects';
 import Navbar from './components/Navbar/Navbar';
 import PageNotFound from './containers/PageNotFound/PageNotFound';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route path="/" component={PageNotFound} />
         </Switch>
+        <Footer />
       </Router>
     </div>
   );
