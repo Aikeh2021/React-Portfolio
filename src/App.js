@@ -3,11 +3,13 @@ import Home from './containers/Home/Home';
 import About from './containers/About/About';
 import Portfolio from './containers/Portfolio/Portfolio';
 import Projects from './containers/Projects/Projects';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/about" component={About} />
