@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from './containers/Home/Home';
 import About from './containers/About/About';
 import Portfolio from './containers/Portfolio/Portfolio';
-import Projects from './containers/Projects/Projects';
+import ProjectsPage from './containers/ProjectsPage/ProjectsPage';
 import Navbar from './components/Navbar/Navbar';
 import PageNotFound from './containers/PageNotFound/PageNotFound';
 import Footer from './components/Footer/Footer';
@@ -15,7 +15,7 @@ function App() {
         <Switch>
           <Route path="/about" component={About} />
           <Route path="/portfolio" component={Portfolio} />
-          <Route path="/projects" component={Projects} />
+          <Route path="/projects" component={ProjectsPage} />
           <Route exact path="/" component={Home} />
           <Route path="/" component={PageNotFound} />
         </Switch>
