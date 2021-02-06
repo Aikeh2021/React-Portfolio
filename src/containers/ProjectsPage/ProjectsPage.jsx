@@ -55,32 +55,32 @@ const ProjectsPage = () => {
             <br/>
             <Projects
               title="The Workday Scheduler"
-              description="This site was created for travelers who want the most up-to-date information regarding the weather in any city around the globe."
-              link="https://github.com/Aikeh2021/Weather-Dashboard-App"
-              updated="Last updated 2 months ago"
+              description="With so many of the tools we use migrating to online platforms, I think it's time your planner did the same. The Workday Scheduler is perfect for you to plan the average work shift hour by hour."
+              link="https://github.com/Aikeh2021/work-day-scheduler"
+              updated="Last updated 29 days ago"
               image=""
-              alt="The Weather Dasbhoard Thumbnail"
-              skills="Dynamic element generation, knowledge of jQuery, bootstrap styling"
+              alt="The Worday Scheduler Thumbnail"
+              skills="Incorporation of modules like moment, implementation of local storage"
             />
             <br/>
             <Projects
               title="Budget Tracker"
-              description="This site was created for travelers who want the most up-to-date information regarding the weather in any city around the globe."
-              link="https://github.com/Aikeh2021/Weather-Dashboard-App"
-              updated="Last updated 2 months ago"
+              description="This service allows users to input a name or short description of a purchase and add or subtract the amount spent. The website provides users with a graph that contains nodes that allow the user to see what was purchased or added to an account over a certain period of time. In addition, this application can be downloaded and used offline!"
+              link="https://github.com/Aikeh2021/Budget-Tracker-PWA"
+              updated="Last updated 16 days ago"
               image=""
-              alt="The Weather Dasbhoard Thumbnail"
-              skills="Dynamic element generation, knowledge of jQuery, bootstrap styling"
+              alt="Budget Tracker Thumbnail"
+              skills="Making an application progressive through use of a manifest, service-working, and API cacheing"
             />
             <br/>
             <Projects
               title="Employee Directory"
-              description="This site was created for travelers who want the most up-to-date information regarding the weather in any city around the globe."
+              description="There's nothing more helpful than having a directory of your employees' information complete with a picture of each of their smiling faces! The Employee Directory gives you a way to store information about your staff in a neat and easy to follow website. "
               link="https://github.com/Aikeh2021/Weather-Dashboard-App"
               updated="Last updated 2 months ago"
               image=""
-              alt="The Weather Dasbhoard Thumbnail"
-              skills="Dynamic element generation, knowledge of jQuery, bootstrap styling"
+              alt="Employee Directory Thumbnail"
+              skills="React front end development, axios npm for use with API calls, effective use of useState and useEffect hooks "
             />
           </div>
         </div>
