@@ -5,10 +5,11 @@ import Description from '../../components/AbtDescription/Description';
 const About = () => {
     const styles = {
         descriptionDiv: {
-            border: "thick solid #FF0000",
+            border: "thick solid #FFC0CB",
             textAlign: "center",
             borderRadius: 10,
-            padding: 40
+            padding: 40,
+            fontFamily: 'Amaranth, sans-serif'
 
         }
     }
