@@ -25,7 +25,7 @@ const Projects = ({title, description, link, updated, image, alt, contribution,s
           <p class="card-text">
           {skills} 
           </p>
-          <button className="btn-lg btn btn-danger">View Github Repo<a href={link} target="_blank"></a></button>
+          <a className="btn-lg btn btn-danger" href={link} target="_blank">View Github Repo</a>
           <p class="card-text">
             <small class="text-muted">{updated}</small>
           </p>
