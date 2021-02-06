@@ -6,6 +6,7 @@ const About = () => {
         <div>
             <br/>
             <Header />
+            
         </div>
     );
 };
