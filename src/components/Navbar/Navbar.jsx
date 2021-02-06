@@ -12,15 +12,15 @@ const Navbar = () => {
                   <NavLink className="nav-link" activeClassName="active" to="/">
                     Home
                   </NavLink>
-                  <NavLink className="nav-link" activeClassName="active" to="/projects">
-                    Projects
+                  <NavLink className="nav-link" activeClassName="active" to="/about">
+                    About
                   </NavLink>
                   <NavLink
                     className="nav-link"
                     activeClassName="active"
-                    to="/About"
+                    to="/projects"
                   >
-                    About
+                    Projects
                   </NavLink>
                 </div>
               </div>
