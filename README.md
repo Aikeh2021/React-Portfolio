@@ -35,4 +35,6 @@ SOFTWARE.
 
 * [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
 * [CSS Color Codes](https://www.rapidtables.com/web/css/css-color.html)
-* 
+* [React-toolbox](https://github.com/react-toolbox/react-toolbox/issues/971)
+* [Amaranth Font](https://fonts.google.com/specimen/Amaranth?preview.text_type=custom&sidebar.open=true&selection.family=Amaranth)
+* [Importing A Google Font Into Your React App Using Material UI](https://medium.com/@weberzt/importing-a-google-font-into-your-react-app-using-material-ui-773760ded532)
