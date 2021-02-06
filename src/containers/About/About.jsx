@@ -9,7 +9,8 @@ const About = () => {
             textAlign: "center",
             borderRadius: 10,
             padding: 40,
-            fontFamily: 'Amaranth, sans-serif'
+            fontFamily: 'Amaranth, sans-serif',
+            fontSize: "3rem"
 
         }
     }
