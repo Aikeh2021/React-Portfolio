@@ -30,6 +30,7 @@ const ProjectsPage = () => {
               title="The Inspirator"
               description="The Inspirator: an application to help unlock creativity for persons needing a fresh approach. "
               link="https://github.com/Aikeh2021/The-Inspirator"
+              site=""
               updated="Last updated October 2020"
               image={Inspirator}
               alt="The Inspirator Thumbnail"
@@ -40,6 +41,7 @@ const ProjectsPage = () => {
               title="The Reserve"
               description="The Reserve is a room reservation app that allows college campus library managers to create a log of study rooms. In doing so, it's easier for the manager to keep track of which rooms are in use, empty, or in need of cleaning."
               link="https://github.com/Aikeh2021/conference-room-booker"
+              site="https://still-ravine-68015.herokuapp.com/rooms"
               updated="Last updated December 2020"
               image={Reserve}
               alt="The Reserve Thumbnail"

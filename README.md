@@ -38,3 +38,8 @@ SOFTWARE.
 * [React-toolbox](https://github.com/react-toolbox/react-toolbox/issues/971)
 * [Amaranth Font](https://fonts.google.com/specimen/Amaranth?preview.text_type=custom&sidebar.open=true&selection.family=Amaranth)
 * [Importing A Google Font Into Your React App Using Material UI](https://medium.com/@weberzt/importing-a-google-font-into-your-react-app-using-material-ui-773760ded532)
+* [Adding Images, Fonts, and Files](https://create-react-app.dev/docs/adding-images-fonts-and-files/)
+* [Outline Radius](https://stackoverflow.com/questions/5394116/outline-radius)
+* [Adding Spacing Between Buttons](http://jsfiddle.net/Simo990/dTmy6/1/)
+
+
