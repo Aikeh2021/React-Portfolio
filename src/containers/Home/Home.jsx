@@ -1,6 +1,7 @@
 import React from "react";
 import Description from "../../components/AbtDescription/Description";
 import Header from "../../components/Header/Header";
+import Carousel from '../../components/Carousel/Carousel';
 
 const Home = () => {
   return (
@@ -11,8 +12,13 @@ const Home = () => {
           <Description title={"Ashley Ikeh"}/>
           <br />
           <Header />
+          <br />
+          <Carousel />
         </div>
       </div>
+      <br />
+      <br />
+      <br />
     </div>
   );
 };

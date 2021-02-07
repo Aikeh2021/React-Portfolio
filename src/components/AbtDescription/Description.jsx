@@ -3,12 +3,8 @@ import React from 'react';
 const Description = ({title}) => {
     const styles = {
         descriptionDiv: {
-            border: "thick solid #FF0000",
             textAlign: "center",
-            borderRadius: 10,
-            padding: 40,
             fontFamily: 'Amaranth, sans-serif'
-
         },
         h1: {
             fontSize: 64
