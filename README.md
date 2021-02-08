@@ -1,10 +1,25 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 # Ashley's Portfolio
 
+
+## Welcome To My Portfolio
+
+A portfolio is a crucial piece of the job search process for candidates across the globe. In 2020, a portfolio is an opportunity to showcase the highest quality work a professional has crafted during their career.
+While paper portfolios are still the go-to medium for many jobseekers, it’s also important to possess a digital portfolio. As a newly trained software developer, it's only natural that I create a platform to showcase my creativity, as well as, the projects I have completed so far.
+
+This website will supplement any job applications I submit, as well as, serve as a means of exposure to make a great first impression to those who visit my github profile or come across my website's URL. If you have any questions, comments, or concerns, please visit my website to view my contact information.
+
 ## Contents
 
 * [License](#license)
 * [Credits](#credits)
+
+## Usage
+
+The navigation bar feature on this website is a main component! If you would like to go back and forth between pages of the website, this feature will be heavily utilized!
+Just click one of the tabs to designate where you would like to visit. 
+
+The footer will also be useful if you would like to get in contact with me or view my information hosted by other websites (e.g. LinkedIn, Github, etc). There's also a direct link to my  email.
 
 
 ## License

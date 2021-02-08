@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 
 
-const Navbar = ({expand}) => {
+const Navbar = () => {
 
 
 
@@ -49,12 +49,15 @@ const Navbar = ({expand}) => {
                   Projects
                 </NavLink>
               </li>
-              {/* <li className="nav-item">
-          <a className="nav-link" href="#">Pricing</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li> */}
+              <li className="nav-item">
+                <NavLink
+                  to="/contact"
+                  className="nav-link"
+                  activeclassNameName="active"
+                >
+                  Contact
+                </NavLink>
+              </li>
             </ul>
           </div>
         </div>
