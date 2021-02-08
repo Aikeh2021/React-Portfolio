@@ -1,16 +1,24 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 
-const Navbar = () => {
+
+const Navbar = ({expand}) => {
+
+
+
+
+  
   return (
     <div>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-          <Link to="/" class="navbar-brand">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <div className="container-fluid">
+          <Link to="/" className="navbar-brand">
             Ashley Ikeh
           </Link>
           <button
-            class="navbar-toggler"
+            onClick={console.log("I was clicked")}
+            expand="lg"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
@@ -18,34 +26,34 @@ const Navbar = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-              <li class="nav-item">
+          <div className="collapse navbar-collapse" id="navbarNav">
+            <ul className="navbar-nav">
+              <li className="nav-item">
                 <NavLink
                 to="/about"
-                  class="nav-link active"
+                  className="nav-link active"
                   aria-current="page"
-                  activeClassName="active"
+                  activeclassNameName="active"
                 >
                   About
                 </NavLink>
               </li>
-              <li class="nav-item">
+              <li className="nav-item">
                 <NavLink
                   to="/projects"
-                  class="nav-link"
-                  activeClassName="active"
+                  className="nav-link"
+                  activeclassNameName="active"
                 >
                   Projects
                 </NavLink>
               </li>
-              {/* <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+              {/* <li className="nav-item">
+          <a className="nav-link" href="#">Pricing</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        <li className="nav-item">
+          <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
         </li> */}
             </ul>
           </div>
