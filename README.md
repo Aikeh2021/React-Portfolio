@@ -44,3 +44,7 @@ SOFTWARE.
 * [Carousel Image 1](https://unsplash.com/photos/EhTcC9sYXsw)
 * [Carousel Image 2](https://unsplash.com/photos/Skf7HxARcoc)
 * [Carousel Image 3](https://unsplash.com/photos/rg1y72eKw6o)
+* [Build a Carousel in React.js](https://www.youtube.com/watch?v=Tdpq-9XYoNM)
+* [404 Error Icon](https://www.freepik.com/free-icon/error-404_878044.htm)
+* [Build a Carousel](https://react-bootstrap.github.io/components/carousel/)
+
