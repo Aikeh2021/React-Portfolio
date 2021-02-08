@@ -1,7 +1,7 @@
 {
   "name": "ashleys-portfolio",
   "version": "0.1.0",
-  "private": true,,
+  "private": true,
   "homepage": "https://aikeh2021.github.io/React-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
