@@ -9,6 +9,10 @@ While paper portfolios are still the go-to medium for many jobseekers, it’s al
 
 This website will supplement any job applications I submit, as well as, serve as a means of exposure to make a great first impression to those who visit my github profile or come across my website's URL. If you have any questions, comments, or concerns, please visit my website to view my contact information.
 
+![Portfolio Navigation Demo](src/Assets/Portfolio-Demo.gif)
+
+[Click here](https://aikeh2021.github.io/) to view my portfolio! [Click here](https://github.com/Aikeh2021/React-Portfolio) to view the repository for my portfolio.
+
 ## Contents
 
 * [License](#license)
