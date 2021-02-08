@@ -12,7 +12,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
-          <Link to="/" className="navbar-brand">
+          <Link to="/home" className="navbar-brand">
             Ashley Ikeh
           </Link>
           <button
