@@ -52,6 +52,7 @@ SOFTWARE.
 
 ## Credits
 
+* [Fixing Routing Issue After GH Pages Deployment](https://github.com/facebook/create-react-app/issues/1765)
 * [Mailto Links](https://css-tricks.com/snippets/html/mailto-links/)
 * [CSS Color Codes](https://www.rapidtables.com/web/css/css-color.html)
 * [React-toolbox](https://github.com/react-toolbox/react-toolbox/issues/971)
