@@ -10,6 +10,7 @@ import Budget from '../../Assets/Budget.png';
 import Scheduler from '../../Assets/Scheduler.png';
 import Weather from '../../Assets/Weather.png';
 import Reserve from '../../Assets/Reserve.png';
+import Submanny from '../../Assets/Submanny.png';
 
 const ProjectsPage = () => {
   return (
@@ -26,6 +27,17 @@ const ProjectsPage = () => {
         </div>
         <div className="row">
           <div className="col">
+            <Projects
+              title="Sub Manny"
+              description="No one likes to be surprised by random subscription price increases. With Sub Manny, you'll get notified before you're charged!"
+              link="https://github.com/Aikeh2021/subscription-manager"
+              site="https://boiling-journey-74144.herokuapp.com/"
+              siteName="Visit The Inspirator"
+              updated="Last updated February 2021"
+              image={Submanny}
+              alt="Sub Manny Thumbnail"
+              contribution="I wore every hat possible during this project. I was primarily responsible for the frontend design and coded most the of pages featured on this site. Though I did not propose the idea for the website, I was the driving force behind it's functionality and did the engineering to solve all of the obstacles we faced in bringing this website to life. I was really proud of my work during this project and feel that it largely reflects how much growth I made during my time in bootcamp."
+            />
             <Projects
               title="The Inspirator"
               description="The Inspirator: an application to help unlock creativity for persons needing a fresh approach. "
