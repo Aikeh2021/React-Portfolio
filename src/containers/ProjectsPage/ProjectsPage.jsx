@@ -32,7 +32,7 @@ const ProjectsPage = () => {
               description="No one likes to be surprised by random subscription price increases. With Sub Manny, you'll get notified before you're charged!"
               link="https://github.com/Aikeh2021/subscription-manager"
               site="https://boiling-journey-74144.herokuapp.com/"
-              siteName="Visit The Inspirator"
+              siteName="Visit Sub Manny"
               updated="Last updated February 2021"
               image={Submanny}
               alt="Sub Manny Thumbnail"

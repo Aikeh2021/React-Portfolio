@@ -17,7 +17,7 @@ const ResumePic = ({doc}) => {
         <div>
             <hr />
             <h1 style={styles.h1}>Click The Image to View Ashley's Resume</h1>
-            <img src={doc} alt="Ashley's Resume" style={styles.img} onClick={()=> window.open("https://drive.google.com/file/d/1oCeLXc1WoHQmlsWz5FoM_VjK0Wvt2G9u/view?usp=sharing", "_blank")}/>
+            <img src={doc} alt="Ashley's Resume" style={styles.img} onClick={()=> window.open("https://drive.google.com/file/d/1YxwtlFdiSjbtZSfM4Tt_kN6guWuKJdp9/view?usp=sharing", "_blank")}/>
         </div>
     );
 };
