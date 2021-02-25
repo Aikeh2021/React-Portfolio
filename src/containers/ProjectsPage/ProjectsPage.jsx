@@ -36,7 +36,7 @@ const ProjectsPage = () => {
               updated="Last updated February 2021"
               image={Submanny}
               alt="Sub Manny Thumbnail"
-              contribution="I wore every hat possible during this project. I was primarily responsible for the frontend design and coded most the of pages featured on this site. Though I did not propose the idea for the website, I was the driving force behind it's functionality and did the engineering to solve all of the obstacles we faced in bringing this website to life. I was really proud of my work during this project and feel that it largely reflects how much growth I made during my time in bootcamp."
+              contribution="I wore every hat possible during this project. I was primarily responsible for the frontend design and coded most of the containers and components featured on this site. Though I did not propose the idea for the website, I was the driving force behind it's functionality and did the engineering to solve all of the obstacles we faced in bringing this website to life. I was really proud of my work during this project and feel that it largely reflects how much growth I made during my time in bootcamp."
             />
             <Projects
               title="The Inspirator"
